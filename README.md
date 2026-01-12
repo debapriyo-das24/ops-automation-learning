@@ -16,3 +16,7 @@ Currently starting from basics.
 ## Day 2 - 11-01-2025
 - Showed up despite disruptions.
 - I need to : learn basic python for data handling. 
+
+## Day 3
+- Attempted assessments.
+- Learnt basic python functions.
