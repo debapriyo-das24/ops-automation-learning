@@ -20,3 +20,10 @@ Currently starting from basics.
 ## Day 3
 - Attempted assessments.
 - Learnt basic python functions.
+
+## Day 4
+- Passed another important nerve-wracking assessment.
+- Showed up, despite a varied and hectic schedule.
+- Practiced basic python i.e. Arithmetic and Syntax.
+
+  
