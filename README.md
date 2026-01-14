@@ -24,6 +24,10 @@ Currently starting from basics.
 ## Day 4
 - Passed another important nerve-wracking assessment.
 - Showed up, despite a varied and hectic schedule.
-- Practiced basic python i.e. Arithmetic and Syntax.
+- Practiced basic python i.e. Arithmetic and Variables.
+
+## Day 5
+- Completed another assessment for a part-time role.
+- Python progress: Numbers and functions from Udemy and Kaggle brief tutorial.
 
   
