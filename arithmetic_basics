@@ -1,0 +1,10 @@
+
+
+#creating variables and executing simple arithmetic functions
+a = 3
+b = 5
+
+print("Sum:",a+b)
+print("Subtraction:",a-b)
+print("Multiplication:",a*b)
+print("Division:",a/b)
