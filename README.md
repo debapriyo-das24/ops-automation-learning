@@ -31,5 +31,5 @@ Currently starting from basics.
 - Python progress: Numbers and functions from Udemy and Kaggle brief tutorial.
 
  ## Day 6 
- - Practiced variables in python.
- - Completed a significant portion of the udemy course.
+ - Practiced variable assignments in python.
+ - Completed two chapters of the udemy course.
