@@ -30,4 +30,6 @@ Currently starting from basics.
 - Completed another assessment for a part-time role.
 - Python progress: Numbers and functions from Udemy and Kaggle brief tutorial.
 
-  
+ ## Day 6 
+ - Practiced variables in python.
+ - Completed a significant portion of the udemy course.
