@@ -15,7 +15,7 @@ Currently starting from basics.
 
 ## Day 2 - 11-01-2025
 - Showed up despite disruptions.
-- I need to : learn basic python for data handling. 
+- I need to: learn basic python for data handling. 
 
 ## Day 3
 - Attempted assessments.
@@ -33,3 +33,7 @@ Currently starting from basics.
  ## Day 6 
  - Practiced variable assignments in python.
  - Completed two chapters of the udemy course.
+
+ ## Day 7
+ - Cracked two opportunities.
+ - Completed two strings videos.
