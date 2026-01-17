@@ -37,3 +37,7 @@ Currently starting from basics.
  ## Day 7
  - Cracked two opportunities.
  - Completed two strings videos.
+
+## Day 8
+- Revised strings, variables and arithmetic operations.
+- Showed up despite busy schedule. 
