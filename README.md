@@ -30,14 +30,17 @@ Currently starting from basics.
 - Completed another assessment for a part-time role.
 - Python progress: Numbers and functions from Udemy and Kaggle brief tutorial.
 
- ## Day 6 
- - Practiced variable assignments in python.
- - Completed two chapters of the udemy course.
+## Day 6 
+- Practiced variable assignments in python.
+- Completed two chapters of the udemy course.
 
- ## Day 7
- - Cracked two opportunities.
- - Completed two strings videos.
+## Day 7
+- Cracked two opportunities.
+- Completed two strings videos.
 
 ## Day 8
 - Revised strings, variables and arithmetic operations.
 - Showed up despite busy schedule. 
+
+## Day 9
+- Completed string properties and quizes.
