@@ -11,7 +11,7 @@ for Operations / Data Operations roles.
 - Build small automation scripts relevant to ops work
 
 ## Status
-Currently starting from basics.
+Currently starting from the basics.
 
 ## Day 2 - 11-01-2025
 - Showed up despite disruptions.
@@ -36,11 +36,16 @@ Currently starting from basics.
 
 ## Day 7
 - Cracked two opportunities.
-- Completed two strings videos.
+- Completed two string videos.
 
 ## Day 8
-- Revised strings, variables and arithmetic operations.
+- Revised strings, variables, and arithmetic operations.
 - Showed up despite busy schedule. 
 
 ## Day 9
-- Completed string properties and quizes.
+- Completed string properties and quizzes.
+
+## Day 10
+- Managed personal commitments and difficult communications
+- Continued Python learning: print formatting concepts
+- Maintained engagement with Ops upskilling path
