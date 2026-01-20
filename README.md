@@ -49,3 +49,7 @@ Currently starting from the basics.
 - Managed personal commitments and difficult communications
 - Continued Python learning: print formatting concepts
 - Maintained engagement with Ops upskilling path
+
+## Day 11
+- Practiced f-strings and print formatting.
+- Maintained engagement with Ops upskilling path
