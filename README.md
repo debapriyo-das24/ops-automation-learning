@@ -53,3 +53,8 @@ Currently starting from the basics.
 ## Day 11
 - Practiced f-strings and print formatting.
 - Maintained engagement with Ops upskilling path
+
+## Day 12
+- Low-capacity day due to health
+- Maintained engagement with Python practice
+- Wrote small code snippets to reinforce fundamentals
