@@ -58,3 +58,7 @@ Currently starting from the basics.
 - Low-capacity day due to health
 - Maintained engagement with Python practice
 - Wrote small code snippets to reinforce fundamentals
+
+## Day 13
+- Completed another job application.
+- Minimal python revision.
