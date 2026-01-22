@@ -61,4 +61,5 @@ Currently starting from the basics.
 
 ## Day 13
 - Completed another job application.
-- Minimal python revision.
+- Practiced Lists.
+- Maintained engagement with Ops upskilling path
