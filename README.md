@@ -61,5 +61,6 @@ Currently starting from the basics.
 
 ## Day 13
 - Completed another job application.
-- Practiced Lists.
-- Maintained engagement with Ops upskilling path
+- Completed Python Lists topic (nesting, append, pop, sort, reverse)
+- Created and uploaded list operations artifact.
+- Maintained execution despite late hour.
