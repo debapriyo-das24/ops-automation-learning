@@ -64,3 +64,8 @@ Currently starting from the basics.
 - Completed Python Lists topic (nesting, append, pop, sort, reverse)
 - Created and uploaded list operations artifact.
 - Maintained execution despite late hour.
+
+## Day 14
+- Completed Python Dictionaries topic.
+- Completed Python Tuples topic.
+- Created and uploaded artifact demonstrating dictionary and tuple usage.
