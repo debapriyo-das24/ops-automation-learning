@@ -69,3 +69,8 @@ Currently starting from the basics.
 - Completed Python Dictionaries topic.
 - Completed Python Tuples topic.
 - Created and uploaded artifact demonstrating dictionary and tuple usage.
+
+## Day 15
+- Completed Python Sets topic
+- Completed Python Booleans topic
+- Created and uploaded artifact demonstrating set operations and boolean logic
