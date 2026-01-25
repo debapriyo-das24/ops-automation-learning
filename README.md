@@ -74,3 +74,8 @@ Currently starting from the basics.
 - Completed Python Sets topic
 - Completed Python Booleans topic
 - Created and uploaded artifact demonstrating set operations and boolean logic
+
+## Day 16
+- Completed Python Objects and Data Structures module
+- Created and uploaded artifact covering files with python
+- Prepared for module assessment
