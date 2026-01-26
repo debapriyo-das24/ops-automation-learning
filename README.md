@@ -79,3 +79,8 @@ Currently starting from the basics.
 - Completed Python Objects and Data Structures module
 - Created and uploaded artifact covering files with python
 - Prepared for module assessment
+
+## Day 17
+- Passed Python Objects and Data Structures module assessment
+- Completed end-to-end evaluation of core Python data structures
+- Added assessment completion as learning artifact
