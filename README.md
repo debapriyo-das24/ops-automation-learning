@@ -84,3 +84,8 @@ Currently starting from the basics.
 - Passed Python Objects and Data Structures module assessment
 - Completed end-to-end evaluation of core Python data structures
 - Added assessment completion as learning artifact
+
+## Day 18
+- Practiced comparison operators
+- Implemented conditional logic using if / elif / else
+- Applied for-loops with conditional checks
