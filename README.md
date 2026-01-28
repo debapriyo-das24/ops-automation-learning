@@ -89,3 +89,8 @@ Currently starting from the basics.
 - Practiced comparison operators
 - Implemented conditional logic using if / elif / else
 - Applied for-loops with conditional checks
+
+## Day 19
+- Practiced conditional logic using if / elif / else
+- Applied for-loops with conditional checks
+
