@@ -94,3 +94,7 @@ Currently starting from the basics.
 - Practiced conditional logic using if / elif / else
 - Applied for-loops with conditional checks
 
+## Day 20
+- Completed Python while loops module
+- Practiced useful Python operators
+- Created and uploaded artifacts for loop control and operator usage
