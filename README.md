@@ -98,3 +98,8 @@ Currently starting from the basics.
 - Completed Python while loops module
 - Practiced useful Python operators
 - Created and uploaded artifacts for loop control and operator usage
+
+## Day 21
+- Consolidated Python fundamentals learned so far
+- Practiced combining data structures, loops, and conditional logic
+- Focused on reinforcement rather than introducing new concepts
