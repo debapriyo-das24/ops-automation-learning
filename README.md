@@ -128,3 +128,9 @@ Currently starting from the basics.
 - Practiced Python list comprehensions
 - Preserved daily Python practice continuity during heavy external commitments.
 - Uploaded artifact resonating the same.
+
+## Day 27
+- Reviewed Python fundamentals learnt till now.
+- Reinforced understanding of objects & data structures, comparison operators, and Python statements through quizzes.
+- Maintained daily Python engagement ahead of travel period.
+
