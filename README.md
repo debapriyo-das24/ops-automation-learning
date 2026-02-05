@@ -126,4 +126,5 @@ Currently starting from the basics.
 
 ## Day 26
 - Practiced Python list comprehensions
-- Preserved daily Python practice continuity during heavy external commitments
+- Preserved daily Python practice continuity during heavy external commitments.
+- Uploaded artifact resonating the same.
