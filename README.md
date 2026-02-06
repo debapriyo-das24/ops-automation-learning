@@ -134,3 +134,6 @@ Currently starting from the basics.
 - Reinforced understanding of objects & data structures, comparison operators, and Python statements through quizzes.
 - Maintained daily Python engagement ahead of travel period.
 
+## Day 28
+-Practiced python while being on the move. 
+-Preserved daily python practice continuity. 
