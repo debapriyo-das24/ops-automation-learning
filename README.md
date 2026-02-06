@@ -135,5 +135,5 @@ Currently starting from the basics.
 - Maintained daily Python engagement ahead of travel period.
 
 ## Day 28
--Practiced python while being on the move. 
--Preserved daily python practice continuity. 
+- Practiced python while being on the move. 
+- Preserved daily python practice continuity. 
