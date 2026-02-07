@@ -137,3 +137,7 @@ Currently starting from the basics.
 ## Day 28
 - Practiced python while being on the move. 
 - Preserved daily python practice continuity. 
+
+## Day 29
+- Travel day
+- Reviewed Python concepts and maintained daily learning continuity
