@@ -141,3 +141,7 @@ Currently starting from the basics.
 ## Day 29
 - Travel day
 - Reviewed Python concepts and maintained daily learning continuity
+
+## Day 30
+- Travel day
+- Reviewed Python concepts and maintained daily learning continuity
