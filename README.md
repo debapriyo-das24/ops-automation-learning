@@ -158,3 +158,8 @@ Currently starting from the basics.
 ## Day 33
 - Travel day
 - Reviewed Python concepts and maintained daily learning continuity 
+
+## Day 34
+- Travel day
+- Reviewed Python concepts and maintained daily learning continuity 
+
