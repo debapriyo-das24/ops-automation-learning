@@ -13,7 +13,7 @@ for Operations / Data Operations roles.
 ## Status
 Currently starting from the basics.
 
-## Day 2 - 11-01-2025
+## Day 2 - 11-01-2026
 - Showed up despite disruptions.
 - I need to: learn basic python for data handling. 
 
@@ -163,3 +163,7 @@ Currently starting from the basics.
 - Travel day
 - Reviewed Python concepts and maintained daily learning continuity 
 
+## Day 35 - 23-02-2026
+- Resumed Python practice after travel and illness period
+- Reviewed core fundamentals: data structures, loops, conditionals
+- Re-established daily coding routine
