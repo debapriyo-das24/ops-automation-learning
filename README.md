@@ -167,3 +167,8 @@ Currently starting from the basics.
 - Resumed Python practice after travel and illness period
 - Reviewed core fundamentals: data structures, loops, conditionals
 - Re-established daily coding routine
+
+## Day 36
+- Revised learnt python data structures and operations.
+- Prepared for two interviews
+
