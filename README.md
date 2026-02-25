@@ -172,3 +172,6 @@ Currently starting from the basics.
 - Revised learnt python data structures and operations.
 - Prepared for two interviews
 
+## Day 37
+- Completed methods and functions basic
+- Practiced old concepts and uploaded artifact.
