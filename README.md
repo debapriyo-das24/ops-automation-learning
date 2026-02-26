@@ -175,3 +175,7 @@ Currently starting from the basics.
 ## Day 37
 - Completed methods and functions basic
 - Practiced old concepts and uploaded artifact.
+
+## Day 38
+- Learnt more about functions.
+- Uploaded artifact resonating the same. 
