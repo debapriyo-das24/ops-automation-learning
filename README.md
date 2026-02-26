@@ -177,5 +177,5 @@ Currently starting from the basics.
 - Practiced old concepts and uploaded artifact.
 
 ## Day 38
-- Learnt more about functions.
+- Learnt more about functions - defining, adding logic, return.
 - Uploaded artifact resonating the same. 
