@@ -179,3 +179,7 @@ Currently starting from the basics.
 ## Day 38
 - Learnt more about functions - defining, adding logic, return.
 - Uploaded artifact resonating the same. 
+
+## Day 39
+- Maintained python continuity. 
+- Focused more on functions
