@@ -183,3 +183,8 @@ Currently starting from the basics.
 ## Day 39
 - Maintained python continuity. 
 - Focused more on functions
+
+## Day 40
+- Learned Python functions
+- Implemented tuple unpacking in function outputs
+- Created and uploaded corresponding artifacts
