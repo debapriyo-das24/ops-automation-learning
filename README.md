@@ -187,4 +187,5 @@ Currently starting from the basics.
 ## Day 40
 - Learned Python functions
 - Implemented tuple unpacking in function outputs
+- Created my first ever python game
 - Created and uploaded corresponding artifacts
