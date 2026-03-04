@@ -189,3 +189,7 @@ Currently starting from the basics.
 - Implemented tuple unpacking in function outputs
 - Created my first ever python game
 - Created and uploaded corresponding artifacts
+
+## Day 41
+- Concentrated more on functions and various applications of it.
+- Cleared modules on python functions
