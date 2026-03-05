@@ -193,3 +193,7 @@ Currently starting from the basics.
 ## Day 41
 - Concentrated more on functions and various applications of it.
 - Cleared modules on python functions
+
+## Day 42
+- Maintained python continuity, focusing on functions.
+- Appeared for one interview.
