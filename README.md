@@ -197,3 +197,7 @@ Currently starting from the basics.
 ## Day 42
 - Maintained python continuity, focusing on functions.
 - Appeared for one interview.
+
+## Day 43
+- Completed modules on python.
+- Appeared for another interview.
