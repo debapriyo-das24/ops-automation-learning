@@ -205,3 +205,7 @@ Currently starting from the basics.
 ## Day 44
 - Maintained python continuity, focusing on functions.
 - Compkleted python modules
+
+## Day 45
+- Continued python focus on functions.
+- Completed modules on it. Need to focus more on this.
