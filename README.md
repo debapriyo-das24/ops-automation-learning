@@ -209,3 +209,7 @@ Currently starting from the basics.
 ## Day 45
 - Continued python focus on functions.
 - Completed modules on it. Need to focus more on this.
+
+## Day 46
+- Completed modules on function.
+- Learnt lambda expression.
