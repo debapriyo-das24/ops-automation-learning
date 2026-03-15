@@ -213,3 +213,7 @@ Currently starting from the basics.
 ## Day 46
 - Completed modules on function.
 - Learnt lambda expression.
+
+## Day 47
+- Continued daily python practice.
+- Focused on functions - *args and *kwargs.
