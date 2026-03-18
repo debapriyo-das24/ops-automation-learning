@@ -217,3 +217,7 @@ Currently starting from the basics.
 ## Day 47
 - Continued daily python practice.
 - Focused on functions - *args and *kwargs.
+
+## Day 48
+- Continued daily python practice.
+- Focused on creating small scripts.
