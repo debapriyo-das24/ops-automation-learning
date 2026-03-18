@@ -221,3 +221,4 @@ Currently starting from the basics.
 ## Day 48
 - Continued daily python practice.
 - Focused on creating small scripts.
+- Uploaded artifact resonating the same.
