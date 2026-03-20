@@ -222,3 +222,8 @@ Currently starting from the basics.
 - Continued daily python practice.
 - Focused on creating small scripts.
 - Uploaded artifact resonating the same.
+
+## Day 49
+- Focused on control flow with the help of functions.
+- Continued daily python practice.
+
