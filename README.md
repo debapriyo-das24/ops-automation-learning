@@ -227,3 +227,6 @@ Currently starting from the basics.
 - Focused on control flow with the help of functions.
 - Continued daily python practice.
 
+## Day 50
+- Continued daily python practice.
+- Focused on functions properties.
