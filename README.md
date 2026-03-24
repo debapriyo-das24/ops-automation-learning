@@ -230,3 +230,7 @@ Currently starting from the basics.
 ## Day 50
 - Continued daily python practice.
 - Focused on functions properties.
+
+## Day 51
+- Completed 50% of the modules.
+- Will be pivoting to python required for Data Analysis.
