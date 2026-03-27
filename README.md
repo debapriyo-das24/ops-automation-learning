@@ -234,3 +234,7 @@ Currently starting from the basics.
 ## Day 51
 - Completed 50% of the modules.
 - Will be pivoting to python required for Data Analysis.
+
+## Day 52
+- Installed pycharm.
+- completed methods and functions.
